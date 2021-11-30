@@ -1,0 +1,2 @@
+module StundetsHelper
+end
